@@ -25,6 +25,7 @@
 | `powerball.py` | 한글 버전 |
 | `powerball_en.py` | 영문 버전 (기능 동일) |
 | `requirements.txt` | 설치할 파이썬 패키지 목록 |
+| `LICENSE` | MIT 라이선스 |
 
 ## 빠른 시작 (처음 쓰는 분용)
 
@@ -160,4 +161,4 @@ https://data.ny.gov/api/v3/views/d6yy-54nr/query.json
 
 ## 라이선스
 
-원하는 라이선스(예: MIT)를 `LICENSE` 파일로 추가하세요.
+이 프로젝트는 [MIT 라이선스](LICENSE)로 공개돼요.

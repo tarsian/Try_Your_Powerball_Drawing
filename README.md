@@ -25,6 +25,7 @@ A small Python program that does three things:
 | `powerball_en.py` | English version |
 | `powerball.py` | Korean version (same features) |
 | `requirements.txt` | Python packages to install |
+| `LICENSE` | MIT License |
 
 ## Quick start (first-time users)
 
@@ -160,4 +161,4 @@ This is an independent hobby project. It is not affiliated with or endorsed by P
 
 ## License
 
-Add a license of your choice (for example MIT) as a `LICENSE` file.
+This project is released under the [MIT License](LICENSE).
