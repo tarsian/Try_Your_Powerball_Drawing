@@ -1,6 +1,3 @@
-# Try_Your_Powerball_Drawing
-Checking Static value to guess powerball numbers.
-
 # Powerball Toolkit
 
 [한국어 README](README.ko.md)
@@ -51,7 +48,7 @@ With Git:
 
 ```bash
 git clone https://github.com/tarsian/Try_Your_Powerball_Drawing.git
-cd <repo-name>
+cd Try_Your_Powerball_Drawing
 ```
 
 Or click **Code > Download ZIP** on GitHub, unzip it, and `cd` into the folder.
