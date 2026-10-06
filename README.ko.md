@@ -49,7 +49,7 @@ Git을 쓰는 경우:
 
 ```bash
 git clone https://github.com/tarsian/Try_Your_Powerball_Drawing.git
-cd <repo-name>
+cd Try_Your_Powerball_Drawing
 ```
 
 Git이 없다면 GitHub 페이지에서 **Code > Download ZIP**을 눌러 받고, 압축을 푼 뒤 그 폴더로 이동하세요 (`cd 폴더이름`).
